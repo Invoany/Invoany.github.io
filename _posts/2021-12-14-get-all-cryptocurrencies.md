@@ -48,11 +48,11 @@ Let's print the **URL Request** to see what we are going to retrieve.
 
 If we access the link given by the **Print** command, we get the following output.
 
-[![CoinGecko API Call Coins List](/assets/images/Coins-List-Api-CoinGecko-Call.png)](https://api.coingecko.com/api/v3/coins/list)
+[![CoinGecko API Call Coins List](/assets/posts/Coins-List-Api-CoinGecko-Call.png)](https://api.coingecko.com/api/v3/coins/list)
 
 Seems confusing but in fact is very simple, this is in **JSON** format, and the first **bracket** means we are starting a list, next we have a **curly bracket**, that means we are starting a **dictionary**, notice we have one dictionary for **each coin**, and that coin contains an *ID*, a *Symbol* and a *Name*, each different coin/dictionary are separated by commas.
 
-![CoinGecko API Call Coins List](/assets/images/Coins-List-Json-Example.png)
+![CoinGecko API Call Coins List](/assets/posts/Coins-List-Json-Example.png)
 
 We now need to retrieve this **text** to **Json** and load it into a **Dataframe** called *all_coins*.
 ```python
@@ -64,7 +64,7 @@ We now need to retrieve this **text** to **Json** and load it into a **Dataframe
 We want to give a name to the *index* column, so it won't be Blank.
 Let's **print** the Dataframe to see the output that we already have.
 
-![Dataframe Example for Coins List](/assets/images/Coins-List-Dataframe-Example.png)
+![Dataframe Example for Coins List](/assets/posts/Coins-List-Dataframe-Example.png)
 
 Now we just need to save our List!
 ```python
