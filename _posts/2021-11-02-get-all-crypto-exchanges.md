@@ -5,7 +5,7 @@ description: Simple script to retrieve to a CSV all crypto exchanges presented o
 categories: [Python, Crypto]
 tags: [informative, technology, crypto, python]
 image:
-  path: /assets/posts/crypto_exchanges.png
+  path: /assets/posts/images/crypto_exchanges.png
   alt: Image showing USA and soome random Crypto exchanges
 ---
 
@@ -61,6 +61,6 @@ To see the full Script please visit the repository in:
 
 Check here for an example of the CSV file:
 
-[<img src="\assets\images\excel.png">](https://github.com/Invoany/get_exchange_symbols_coingecko/blob/main/Output/AllExchanges_CoinGecko_20230508.csv)
+[<img src="\assets\posts\images\excel.png">](https://github.com/Invoany/get_exchange_symbols_coingecko/blob/main/Output/AllExchanges_CoinGecko_20230508.csv)
 
 Thank you for your attention!
