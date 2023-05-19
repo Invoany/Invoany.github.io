@@ -20,3 +20,6 @@ package-lock.json
 
 # Misc
 assets/js/dist
+_drafts/2023-05-02-connect-to-Bitcoin-using-RPC-Calls.md
+.gitignore
+_drafts/2023-05-01-get-Bitcoin-Ledger-in-Raspberry-Pi-4-with-Umbrel-and-SSH-enable.md
