@@ -204,7 +204,7 @@ def getblockcount():
     return block_height
 ```
 
-It doesn't need any *argument*, the main goal of this function is to return the **height** of the most fully **validated** chain.
+It doesn't need any *argument*, the main goal of this function is to return the **height** of the most fully **validated** chain. test
 
 > For more information about the **RPC Call API** for **Bitcoin RPC**, please go to the [Bitcoin Developer Reference Page](https://developer.bitcoin.org/reference/rpc/index.html).
 {: .prompt-tip }
