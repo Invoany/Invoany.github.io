@@ -192,16 +192,16 @@ This is going to be one of the **most important** functions due to the fact that
 Last but not least, we have the *"Get Block Count"* **Funtion**.
 
 ```python
-def getrawtransaction(first_tx):
+def getblockcount():
     rpc_connection = AuthServiceProxy("http://%s:%s@%s:%s"%(rpcuser, rpcpassword, host, port ), timeout=timeout)
     try:
-        tx= rpc_connection.getrawtransaction(first_tx, True)
+        block_height= rpc_connection.getblockcount()
     except:
-        print("Got error waiting 60 seconds on getrawtransaction")
+        print("Got error waiting 60 seconds on getblockcount")
         time.sleep(60)
         rpc_connection = AuthServiceProxy("http://%s:%s@%s:%s"%(rpcuser, rpcpassword, host, port ), timeout=timeout)
-        tx= rpc_connection.getrawtransaction(first_tx, True)
-    return tx
+        block_height= rpc_connection.getblockcount()
+    return block_height
 ```
 
 It doesn't need any *argument*, the main goal of this function is to return the **height** of the most fully **validated** chain.
