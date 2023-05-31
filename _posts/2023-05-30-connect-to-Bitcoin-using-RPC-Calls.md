@@ -163,7 +163,7 @@ Notice that the only *piece* of code that changes is the function name; in this 
 
 ### Function GetRawTransaction
 
-Last but not least, we have the *"Get Raw Transaction"* **Funtion**.
+Now we have the *"Get Raw Transaction"* **Funtion**.
 
 ```python
 def getrawtransaction(first_tx):
@@ -186,6 +186,25 @@ When calling this RPC Call, we can retrieve information about the specific trans
 - ...
 
 This is going to be one of the **most important** functions due to the fact that it is the *Call* that gives information about a specific *transaction* between two entities directly from the *Bitcoin Ledger*.
+
+### Function GetBlockCount
+
+Last but not least, we have the *"Get Block Count"* **Funtion**.
+
+```python
+def getrawtransaction(first_tx):
+    rpc_connection = AuthServiceProxy("http://%s:%s@%s:%s"%(rpcuser, rpcpassword, host, port ), timeout=timeout)
+    try:
+        tx= rpc_connection.getrawtransaction(first_tx, True)
+    except:
+        print("Got error waiting 60 seconds on getrawtransaction")
+        time.sleep(60)
+        rpc_connection = AuthServiceProxy("http://%s:%s@%s:%s"%(rpcuser, rpcpassword, host, port ), timeout=timeout)
+        tx= rpc_connection.getrawtransaction(first_tx, True)
+    return tx
+```
+
+It doesn't need any *argument*, the main goal of this function is to return the **height** of the most fully **validated** chain.
 
 > For more information about the **RPC Call API** for **Bitcoin RPC**, please go to the [Bitcoin Developer Reference Page](https://developer.bitcoin.org/reference/rpc/index.html).
 {: .prompt-tip }
