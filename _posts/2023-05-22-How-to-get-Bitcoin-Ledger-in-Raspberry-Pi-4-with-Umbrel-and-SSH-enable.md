@@ -1,7 +1,7 @@
 ---
-title: How to set up your Bitcoin Node on a Raspberry Pi 4 and SSH enable
+title: Setting up your Bitcoin Node on a Raspberry Pi 4 and enable SSH
 layout: post
-description: Quick tutorial on How to get the Bitcoin Ledger on a Raspberry Pi 4 with Umbrel and SSH enable
+description: Quick tutorial on How to get the Bitcoin Ledger on a Raspberry Pi 4 with Umbrel and enable SSH
 categories: [Bitcoin, Umbrel]
 tags: [informative, technology, bitcoin, umbrel, raspberry pi 4, SSH]
 image:
