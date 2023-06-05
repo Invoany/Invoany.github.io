@@ -1,5 +1,5 @@
 ---
-title: How to get All Cryptocurrencies by using Requests
+title: Retrieving All Cryptocurrencies by using Requests
 layout: post
 description: Script to retrieve all CryptoCurrencies that are presented on CoinGecko
 tags: [informative, technology, crypto, python]

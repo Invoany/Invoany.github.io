@@ -1,5 +1,5 @@
 ---
-title: How to get All Exchanges symbols by using Requests
+title: Extract All Exchanges symbols by using Requests
 layout: post
 description: Simple script to retrieve to a CSV all crypto exchanges presented on CoinGecko
 categories: [Python, Crypto]
