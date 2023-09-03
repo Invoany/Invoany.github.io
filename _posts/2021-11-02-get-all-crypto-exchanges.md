@@ -61,6 +61,6 @@ To see the full Script please visit the repository in:
 
 Check here for an example of the CSV file:
 
-[<img src="\assets\posts\images\excel.png">](https://github.com/Invoany/get_exchange_symbols_coingecko/blob/main/Output/AllExchanges_CoinGecko_20230829.csv)
+[<img src="\assets\posts\images\excel.png">](https://github.com/Invoany/get_exchange_symbols_coingecko/blob/main/Output/AllExchanges_CoinGecko_20230903.csv)
 
 Thank you for your attention!
