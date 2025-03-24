@@ -38,9 +38,10 @@ social:
   email: invoany.bigdata.cracker@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/invoany
     - https://twitter.com/Invoany # change to your twitter homepage
     - https://github.com/Invoany # change to your github homepage
-    - https://www.linkedin.com/in/invoany
+    
 
 # Site Verification Settings
 webmaster_verifications:
