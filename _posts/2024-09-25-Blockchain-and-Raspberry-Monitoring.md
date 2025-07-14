@@ -46,15 +46,15 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
   <tbody>
     <tr>
       <td>Current time</td>
-      <td>18/06/2025 00:46:04</td>
+      <td>15/07/2025 00:24:45</td>
     </tr>
     <tr>
       <td>Height of the most-work fully-validated block in my Raspberry</td>
-      <td>901,055</td>
+      <td>905,575</td>
     </tr>
     <tr>
       <td>Hash of the best (tip) block in the most-work fully-validated chain</td>
-      <td>00000000000000000001b75315abd01e53e09a7705bfffb261e34cfc23e0cb93</td>
+      <td>00000000000000000000832adbf27a87c21b1f64a4f9562a2fe3d1b2afb26bfe</td>
     </tr>
     <tr>
       <td>Current network name (main, test, regtest)</td>
@@ -62,23 +62,23 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Current number of headers validated on-chain</td>
-      <td>901,529</td>
+      <td>905,575</td>
     </tr>
     <tr>
       <td>Current difficulty</td>
-      <td>126982285146989.3</td>
+      <td>126,271,255,279,307.0</td>
     </tr>
     <tr>
       <td>Median time for the current best block</td>
-      <td>1749802734</td>
+      <td>1752532305</td>
     </tr>
     <tr>
       <td>Estimated size of the block and undo files on disk</td>
-      <td>706 GB</td>
+      <td>713 GB</td>
     </tr>
     <tr>
       <td>Difference between number of headers validated vs height of most validated</td>
-      <td>-474</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table>
@@ -131,19 +131,19 @@ Monitoring your **Raspberry Pi’s performance** is crucial for ensuring that it
   <tbody>
     <tr>
       <td>Total Space</td>
-      <td>1,375 GB</td>
+      <td>116 GB</td>
     </tr>
     <tr>
       <td>Used Space</td>
-      <td>734 GB</td>
+      <td>6 GB</td>
     </tr>
     <tr>
       <td>Free Space</td>
-      <td>571 GB</td>
+      <td>105 GB</td>
     </tr>
     <tr>
       <td>Raspberry Pi Temperature</td>
-      <td>57.939</td>
+      <td>55.017</td>
     </tr>
   </tbody>
 </table>
