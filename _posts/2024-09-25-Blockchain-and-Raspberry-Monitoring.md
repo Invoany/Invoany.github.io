@@ -46,7 +46,7 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
   <tbody>
     <tr>
       <td>Current time</td>
-      <td>15/07/2025 00:36:30</td>
+      <td>15/07/2025 00:44:10</td>
     </tr>
     <tr>
       <td>Height of the most-work fully-validated block in my Raspberry</td>
@@ -131,19 +131,19 @@ Monitoring your **Raspberry Pi’s performance** is crucial for ensuring that it
   <tbody>
     <tr>
       <td>Total Space</td>
-      <td>116 GB</td>
+      <td>1,375 GB</td>
     </tr>
     <tr>
       <td>Used Space</td>
-      <td>6 GB</td>
+      <td>793 GB</td>
     </tr>
     <tr>
       <td>Free Space</td>
-      <td>105 GB</td>
+      <td>512 GB</td>
     </tr>
     <tr>
       <td>Raspberry Pi Temperature</td>
-      <td>53.556</td>
+      <td>54.53</td>
     </tr>
   </tbody>
 </table>
