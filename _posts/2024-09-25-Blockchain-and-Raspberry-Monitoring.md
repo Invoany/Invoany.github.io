@@ -46,15 +46,15 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
   <tbody>
     <tr>
       <td>Current time</td>
-      <td>25/08/2025 00:22:34</td>
+      <td>25/08/2025 06:22:04</td>
     </tr>
     <tr>
       <td>Height of the most-work fully-validated block in my Raspberry</td>
-      <td>911,314</td>
+      <td>911,589</td>
     </tr>
     <tr>
       <td>Hash of the best (tip) block in the most-work fully-validated chain</td>
-      <td>00000000000000000000e9c409b8ff01aaaa5df2ee6db1531b0251a07ecb69e5</td>
+      <td>0000000000000000000199e9b1928434ca1990314e990ecc04b78f8dd197488d</td>
     </tr>
     <tr>
       <td>Current network name (main, test, regtest)</td>
@@ -62,7 +62,7 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Current number of headers validated on-chain</td>
-      <td>911,555</td>
+      <td>911,589</td>
     </tr>
     <tr>
       <td>Current difficulty</td>
@@ -70,7 +70,7 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Median time for the current best block</td>
-      <td>1755944225</td>
+      <td>1756096687</td>
     </tr>
     <tr>
       <td>Estimated size of the block and undo files on disk</td>
@@ -78,7 +78,7 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Difference between number of headers validated vs height of most validated</td>
-      <td>-241</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table>
@@ -135,7 +135,7 @@ Monitoring your **Raspberry Pi’s performance** is crucial for ensuring that it
     </tr>
     <tr>
       <td>Used Space</td>
-      <td>804 GB</td>
+      <td>805 GB</td>
     </tr>
     <tr>
       <td>Free Space</td>
@@ -143,7 +143,7 @@ Monitoring your **Raspberry Pi’s performance** is crucial for ensuring that it
     </tr>
     <tr>
       <td>Raspberry Pi Temperature</td>
-      <td>58.426</td>
+      <td>52.582</td>
     </tr>
   </tbody>
 </table>
