@@ -46,15 +46,15 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
   <tbody>
     <tr>
       <td>Current time</td>
-      <td>27/08/2025 00:22:03</td>
+      <td>27/08/2025 06:22:03</td>
     </tr>
     <tr>
       <td>Height of the most-work fully-validated block in my Raspberry</td>
-      <td>911,850</td>
+      <td>911,893</td>
     </tr>
     <tr>
       <td>Hash of the best (tip) block in the most-work fully-validated chain</td>
-      <td>0000000000000000000223e202d694ba6f3ccc07790bdc95e938c4aa9ef00488</td>
+      <td>00000000000000000000b01427f691178c6e47bc63c00caba0e2e9a5a046aeee</td>
     </tr>
     <tr>
       <td>Current network name (main, test, regtest)</td>
@@ -62,7 +62,7 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Current number of headers validated on-chain</td>
-      <td>911,850</td>
+      <td>911,893</td>
     </tr>
     <tr>
       <td>Current difficulty</td>
@@ -70,7 +70,7 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Median time for the current best block</td>
-      <td>1756249204</td>
+      <td>1756269883</td>
     </tr>
     <tr>
       <td>Estimated size of the block and undo files on disk</td>
