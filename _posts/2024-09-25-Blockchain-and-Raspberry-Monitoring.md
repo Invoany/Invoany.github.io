@@ -46,15 +46,15 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
   <tbody>
     <tr>
       <td>Current time</td>
-      <td>25/12/2025 18:22:42</td>
+      <td>26/12/2025 00:22:06</td>
     </tr>
     <tr>
       <td>Height of the most-work fully-validated block in my Raspberry</td>
-      <td>917,893</td>
+      <td>919,838</td>
     </tr>
     <tr>
       <td>Hash of the best (tip) block in the most-work fully-validated chain</td>
-      <td>00000000000000000000c4d9543471d90af0507d0dcd1e9ee72a8413d9d21eaa</td>
+      <td>0000000000000000000088e163325d986374e045fb53a7c910ef407acdd59a20</td>
     </tr>
     <tr>
       <td>Current network name (main, test, regtest)</td>
@@ -62,23 +62,23 @@ These metrics provide a snapshot of the blockchain's current *state* and help in
     </tr>
     <tr>
       <td>Current number of headers validated on-chain</td>
-      <td>929,439</td>
+      <td>929,487</td>
     </tr>
     <tr>
       <td>Current difficulty</td>
-      <td>150839487445890.5</td>
+      <td>146716052770107.5</td>
     </tr>
     <tr>
       <td>Median time for the current best block</td>
-      <td>1759744540</td>
+      <td>1760898119</td>
     </tr>
     <tr>
       <td>Estimated size of the block and undo files on disk</td>
-      <td>735 GB</td>
+      <td>737 GB</td>
     </tr>
     <tr>
       <td>Difference between number of headers validated vs height of most validated</td>
-      <td>-11,546</td>
+      <td>-9,649</td>
     </tr>
   </tbody>
 </table>
@@ -135,15 +135,15 @@ Monitoring your **Raspberry Pi’s performance** is crucial for ensuring that it
     </tr>
     <tr>
       <td>Used Space</td>
-      <td>817 GB</td>
+      <td>819 GB</td>
     </tr>
     <tr>
       <td>Free Space</td>
-      <td>488 GB</td>
+      <td>486 GB</td>
     </tr>
     <tr>
       <td>Raspberry Pi Temperature</td>
-      <td>55.991</td>
+      <td>58.913</td>
     </tr>
   </tbody>
 </table>
